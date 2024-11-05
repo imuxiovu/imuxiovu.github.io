@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imuxiovu.github.io/IgN/sitemap_index.txt
+Sitemap: https://imuxiovu.github.io/Ydm/sitemap_index.txt
+Sitemap: https://imuxiovu.github.io/Zlk/sitemap_index.txt
+Sitemap: https://imuxiovu.github.io/tbD/sitemap_index.txt
